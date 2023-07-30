@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ЧашиСтудия</string>
+    <string name="tab_text_1">Клиенты</string>
+    <string name="tab_text_2">Статистика</string>
+</resources>
